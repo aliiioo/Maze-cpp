@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @aliiioo
-- 👀 I’m interested in world
-- 🌱 I’m currently learning Py,C++,C,HTML,Css,PHP,...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Ali_Ranjbaran
+ 
+ I’m interested in world
+ 
+instagram _Aliii_Ranjbarann
+
 
 <!---
 aliiioo/aliiioo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
